@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.com/berglindoma13/profundirbuningur.svg?token=7XFxtsfHskBb63iWuLSn&branch=master)](https://magnum.travis-ci.com/berglindoma13/profundirbuningur)
+[![Build Status](https://travis-ci.org/berglindoma13/Profundirbuningur.svg?branch=master)](https://travis-ci.org/berglindoma13/Profundirbuningur.svg?branch=master)
 # Profundirbuningur
